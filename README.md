@@ -2,7 +2,7 @@
 
 <p>Tela de login responsiva para testar habilidades.</p>
 
-🛠️ Construído com<br>
+🛠️ Construído com:<br>
 HTML<br>
 CSS<br>
 JavaScript<br>
